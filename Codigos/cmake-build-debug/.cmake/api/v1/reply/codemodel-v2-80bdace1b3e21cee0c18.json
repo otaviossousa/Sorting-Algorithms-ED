@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Trabalho_Avaliativo_2",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Trabalho_Avaliativo_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Trabalho_Avaliativo_2-Debug-346b0b643ebc590964fb.json",
+					"name" : "Trabalho_Avaliativo_2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/otavi/OneDrive/TADS/M\u00d3DULO 2/ESTRUTURA DE DADOS I/Trabalho Avaliativo 2/C\u00f3digos/cmake-build-debug",
+		"source" : "C:/Users/otavi/OneDrive/TADS/M\u00d3DULO 2/ESTRUTURA DE DADOS I/Trabalho Avaliativo 2/C\u00f3digos"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
